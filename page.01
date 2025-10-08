@@ -1,7 +1,6 @@
-```html
 <html>
 
-<head>
+<head
 
  <title> WEEK 2 </title>
 
@@ -32,6 +31,6 @@
         <li> First item </li>
     </ul>
 
-    <button> <a href="page-02.html">Click here</a></button>
+    <button><a href">Click here</a></button>
 </body>
 </html>
