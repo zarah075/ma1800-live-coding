@@ -1,0 +1,21 @@
+```html
+<html>
+
+<head>
+
+ <title> page two </title>
+
+</head>
+
+<body>
+    <h1> This is my heading! </h1>
+
+    <p> This is my first trial website!! </p>
+
+    <br>
+    <br>
+
+    <p><a href="page-03.html"> Let's go to the third page </a></p>
+</body>
+</html>
+

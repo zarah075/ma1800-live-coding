@@ -1,0 +1,37 @@
+```html
+<html>
+
+<head>
+
+ <title> WEEK 2 </title>
+
+</head>
+
+<body>
+    <h1> This is my heading! </h1>
+
+    <p> This is my first trial website!! </p>
+
+    <br>
+    <br>
+
+    <h3> This is my smaller heading</h3>
+
+    <hr>
+
+    <pre>
+        This
+
+        home is
+
+        l a r g e - let's
+
+    </pre>
+
+    <ul>
+        <li> First item </li>
+    </ul>
+
+    <button> <a href="page-02.html">Click here</a></button>
+</body>
+</html>
